@@ -1,0 +1,30 @@
+ <h1>Welcome to Ariessun's Blog</h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog/post1.html">Blog Post 1</a></li>
+        <li><a href="/blog/post2.html">Blog Post 2</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>About This Blog</h2>
+      <p>Hello! I'm Ariessun, and this is my personal blog where I share my thoughts, tutorials, and projects. Stay tuned for more updates!</p>
+    </section>
+
+    <section class="recent-posts">
+      <h2>Recent Posts</h2>
+      <ul>
+        <li><a href="/blog/post1.html">Blog Post 1: Getting Started with GitHub Pages</a></li>
+        <li><a href="/blog/post2.html">Blog Post 2: Building a Static Blog</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Ariessun. All rights reserved.</p>
+  </footer>
+</body>
+</html>
